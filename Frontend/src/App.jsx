@@ -4,6 +4,7 @@ import EnterPage from "./Pages/EnterPage";
 import ChooseHostel from "./Pages/ChooseHostel";
 import Chat from "./Pages/Chat";
 import NotFound from "./Pages/NotFound";
+import MyLogo from "./assets/anonymous.png"
 
 const App = () => {
   return (
